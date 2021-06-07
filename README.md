@@ -1,2 +1,2 @@
-# imeges
+# images
 my picture host
